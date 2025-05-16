@@ -12,3 +12,4 @@ Just `brew install <formula>`. This is the default tap for Homebrew and is insta
 
 See these sections in [Homebrew/brew's README](https://github.com/Homebrew/brew#homebrew).
 #homebrew
+#homebrew-tea-main
